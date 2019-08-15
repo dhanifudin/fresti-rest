@@ -1,0 +1,7 @@
+{
+  "calories": [
+    { "id": 1, "Food": "Rawon", "calory": 100 },
+    { "id": 2, "Food": "Gado Gado", "calory": 100 },
+    { "id": 3, "Food": "Indomie", "calory": 100 }
+  ]
+}
